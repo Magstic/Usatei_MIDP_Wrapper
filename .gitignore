@@ -1,0 +1,18 @@
+/build/
+/dist/
+
+/Original/*
+!/Original/DoJa Game
+
+*.jar
+*.jad
+*.zip
+
+*.class
+
+.idea/
+.vscode/
+
+*.log
+*.tmp
+tmp*/
